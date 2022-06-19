@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 19 Jun 2022 18:28:07 at https://phongdangcf.wixsite.com/my-site-2 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://phongdangcf.wixsite.com/my-site-2 -O1 "C:\My Web Sites\Web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/decodeURIComponent(e (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/sitemap.xml (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/feed.xml (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/ (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/version/ (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/da6c52cb.min.css (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/b604fd33.min.css (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/02b07b80.min.css (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/ba99686b.min.css (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/b3e8ff7e.min.css (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/d078781b.min.css (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/ae28f799.chunk.min.js (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.49bd849e.chunk.min.js (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.d4eb482d.chunk.min.js (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/rb_wixui.thunderbolt~bootstrap.8bf33f67.chunk.min.css (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:20	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/rb_wixui.thunderbolt~bootstrap.ae28f799.chunk.min.js (from https://phongdangcf.wixsite.com/my-site-2)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/decodeURIComponent(e (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/robots.txt (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/feed.xml (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/version/ (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/eec152dc.min.css (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/da6c52cb.min.css (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/b604fd33.min.css (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/02b07b80.min.css (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/ba99686b.min.css (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/7c602eb2.min.css (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/b3e8ff7e.min.css (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/ae28f799.chunk.min.js (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/rb_wixui.thunderbolt~bootstrap-classic.49bd849e.chunk.min.js (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/rb_wixui.thunderbolt~bootstrap-responsive.d4eb482d.chunk.min.js (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/rb_wixui.thunderbolt~common-site-members-dialogs.7602a3f3.chunk.min.css (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/rb_wixui.thunderbolt~common-site-members-dialogs.467016cb.chunk.min.js (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/rb_wixui.thunderbolt~bootstrap.8bf33f67.chunk.min.css (from https://phongdangcf.wixsite.com/my-site-2/contact)
+18:28:26	Error: 	"Not Found" (404) at link https://phongdangcf.wixsite.com/my-site-2/rb_wixui.thunderbolt~bootstrap.ae28f799.chunk.min.js (from https://phongdangcf.wixsite.com/my-site-2/contact)
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 62 links scanned, 25 files written (1623632 bytes overall) [573531 bytes received at 30185 bytes/sec], 1707532 bytes transferred using HTTP compression in 50 files, ratio 28%, 6.8 requests per connection
+(36 errors, 0 warnings, 0 messages)
